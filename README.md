@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pouya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align = "right" alt="Pouya" width = "400" src= "https://media4.giphy.com/media/gh0RRgkTXedvF0pDc0/200w.gif?cid=82a1493b6g7pb7u3zhlt1cxzt2tohcoe7pjekd5xxvs2i9p0&ep=v1_gifs_related&rid=200w.gif&ct=g">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pouya-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="pouya-analyst" /> </p>
 
 - 🌱 I’m currently learning **Big Data and Google Analytics**
